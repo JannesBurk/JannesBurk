@@ -2,7 +2,7 @@
 
 **`Game Designer (Level Designer/Developer/Enthusiast)`**
 
-As a passionate and driven game designer, I’ve built a strong foundation in game engines like Unreal and Unity, with a deep interest in the theory and craft of creating immersive experiences. Although I’m still early in my professional journey, my hands-on experience through various personal projects has given me a practical understanding of game mechanics and design workflows. I’m committed to continuous learning and improvement, and I thrive in collaborative environments where clear communication is key. While I strive for perfection in my work —sometimes to a fault— I’m learning to balance attention to detail with efficiency, ensuring high-quality results without losing sight of deadlines.
+As a passionate and driven game designer, I’ve built a strong foundation in game engines like Unreal and Unity, with a deep interest in the theory and craft of creating immersive experiences. Although I’m still early in my professional journey, my hands-on experience through various personal projects has given me a practical understanding of game mechanics and design workflows. I’m eager to deepen my knowledge and continuously grow as a designer, always excited to take on new challenges and create innovative experiences.
 
 ---
 
